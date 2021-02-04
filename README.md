@@ -1,4 +1,4 @@
-# Tyoescript Digital Clock
+# TypeScript Digital Clock
 ### Features :
  * show time
  * get hours 
